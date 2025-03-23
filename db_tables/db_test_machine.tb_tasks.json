@@ -1,0 +1,147 @@
+[{
+  "_id": {
+    "$oid": "67dfa0ffa89415922e94010b"
+  },
+  "task_name": "assignment1",
+  "description": "assignment in english",
+  "due_time": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "status": "completed",
+  "student_id": {
+    "$oid": "67dfa0640f545c521149f730"
+  },
+  "admin_id": {
+    "$oid": "67df9ebe61ad3abadfa4565f"
+  },
+  "timestamp": {
+    "$date": "2025-03-23T05:49:51.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfa109a89415922e94010f"
+  },
+  "task_name": "assignment2",
+  "description": "assignment in english",
+  "due_time": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "status": "pending",
+  "student_id": {
+    "$oid": "67dfa0640f545c521149f730"
+  },
+  "admin_id": {
+    "$oid": "67df9ebe61ad3abadfa4565f"
+  },
+  "timestamp": {
+    "$date": "2025-03-23T05:50:01.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfa117a89415922e940113"
+  },
+  "task_name": "assignment3",
+  "description": "homework in english",
+  "due_time": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "status": "pending",
+  "student_id": {
+    "$oid": "67dfa0640f545c521149f730"
+  },
+  "admin_id": {
+    "$oid": "67df9ebe61ad3abadfa4565f"
+  },
+  "timestamp": {
+    "$date": "2025-03-23T05:50:15.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfa136a89415922e940117"
+  },
+  "task_name": "cs_assignment",
+  "description": "cs new assignment",
+  "due_time": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "status": "pending",
+  "student_id": {
+    "$oid": "67dfa0290f545c521149f723"
+  },
+  "admin_id": {
+    "$oid": "67df9ebe61ad3abadfa4565f"
+  },
+  "timestamp": {
+    "$date": "2025-03-23T05:50:46.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfa13ea89415922e94011b"
+  },
+  "task_name": "cs_assignment1",
+  "description": "cs new assignment",
+  "due_time": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "status": "pending",
+  "student_id": {
+    "$oid": "67dfa0290f545c521149f723"
+  },
+  "admin_id": {
+    "$oid": "67df9ebe61ad3abadfa4565f"
+  },
+  "timestamp": {
+    "$date": "2025-03-23T05:50:54.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfa159a89415922e94011f"
+  },
+  "task_name": "cs_homework",
+  "description": "cs new homework",
+  "due_time": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "status": "pending",
+  "student_id": {
+    "$oid": "67dfa0400f545c521149f727"
+  },
+  "admin_id": {
+    "$oid": "67df9ebe61ad3abadfa4565f"
+  },
+  "timestamp": {
+    "$date": "2025-03-23T05:51:21.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfa172a89415922e940123"
+  },
+  "task_name": "maths_homework",
+  "description": "maths new homework",
+  "due_time": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "status": "pending",
+  "student_id": {
+    "$oid": "67dfa04c0f545c521149f72a"
+  },
+  "admin_id": {
+    "$oid": "67df9ebe61ad3abadfa4565f"
+  },
+  "timestamp": {
+    "$date": "2025-03-23T05:51:46.421Z"
+  },
+  "__v": 0
+}]

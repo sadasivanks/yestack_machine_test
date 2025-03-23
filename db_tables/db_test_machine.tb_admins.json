@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "67df9ebe61ad3abadfa4565f"
+  },
+  "email": "admin@admin.com",
+  "password": "$2a$12$dvrUlSh2IABmBB5HZvpQAegC1IvYHjSlrGiUCLAtSSbwmGtUQ2.Qu",
+  "role": "admin",
+  "timestamp": {
+    "$date": "2025-03-23T05:40:14.120Z"
+  }
+}]

@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "67dfa0290f545c521149f723"
+  },
+  "name": "student_one",
+  "email": "student_one@gmail.com",
+  "department": "cs",
+  "password": "$2b$10$qNP6joJe6svcjaMCtlD4Oewko1L4ezYTAglnc5.L7xbC//35FtgLu",
+  "timestamp": {
+    "$date": "2025-03-23T05:46:17.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfa0400f545c521149f727"
+  },
+  "name": "student_two",
+  "email": "student_two@gmail.com",
+  "department": "cs",
+  "password": "$2b$10$jdOslHCfgf/9lBeoTZKGQuNw3W95aU7dLX.wuVgBlne8wIqRxvJiK",
+  "timestamp": {
+    "$date": "2025-03-23T05:46:40.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfa04c0f545c521149f72a"
+  },
+  "name": "student_three",
+  "email": "student_three@gmail.com",
+  "department": "maths",
+  "password": "$2b$10$zBMfHllxXA.pRyJsNLMjxOwamwEV925qGm.gJ943qniBsZGCIPbP.",
+  "timestamp": {
+    "$date": "2025-03-23T05:46:52.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfa0570f545c521149f72d"
+  },
+  "name": "student_four",
+  "email": "student_four@gmail.com",
+  "department": "maths",
+  "password": "$2b$10$cDmxUzgy0Uk7j96rwo3Vt.Sy.JvD69sd2zDCjUb1MhDrKeiRYOpBS",
+  "timestamp": {
+    "$date": "2025-03-23T05:47:03.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dfa0640f545c521149f730"
+  },
+  "name": "student_five",
+  "email": "student_five@gmail.com",
+  "department": "english",
+  "password": "$2b$10$i3gRScQoDdPEDvw1ekcJO.d1YlN2e0p2wnrRpc309B0jlY2CVGjj.",
+  "timestamp": {
+    "$date": "2025-03-23T05:47:16.104Z"
+  },
+  "__v": 0
+}]
